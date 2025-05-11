@@ -1,0 +1,74 @@
+.container1 {
+    background-color: black;
+    height: 800px;
+    text-align: center;
+}
+
+.me {
+  font-family: "Rouge Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5rem;
+  position: absolute;
+  left: 37.5%;
+  top: 200px;
+  color: #e3f2ff;
+}
+
+
+.occu {
+  font-family: "Funnel Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+.top {
+    position: absolute;
+    bottom: 20px;
+    left:200px;
+}
+
+.bottom {
+    position: absolute;
+    top: 20px;
+    right: 200px;
+}
+
+.profilepic {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.paragraph1 {
+    font-weight: bold;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.buttoncontact {
+    border-radius: 0.75rem;
+    background-color: black;
+    color: white;
+}
+
+.touch {
+    margin-bottom: 40px;
+    font-size: 3rem;
+}
+
+.meh {
+    margin-bottom: 25px;
+}
+
+.footer{
+    background-color: black;
+}
+
